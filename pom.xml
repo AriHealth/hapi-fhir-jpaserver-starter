@@ -254,7 +254,7 @@
 
     <packaging>war</packaging>
 
-    <name>HAPI FHIR JPA Server - Starter Project</name>
+    <name>Health Data Hub based on HAPI FHIR JPA Server - Starter Project</name>
 
     <repositories>
         <repository>
