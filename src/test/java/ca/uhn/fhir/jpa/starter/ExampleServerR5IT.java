@@ -138,7 +138,7 @@ public class ExampleServerR5IT {
 
         WebAppContext webAppContext = new WebAppContext();
         webAppContext.setContextPath("/hapi-fhir-jpaserver");
-        webAppContext.setDisplayName("HAPI FHIR");
+        webAppContext.setDisplayName("Health Data Hub");
         webAppContext.setDescriptor(path + "/src/main/webapp/WEB-INF/web.xml");
         webAppContext.setResourceBase(path + "/target/hapi-fhir-jpaserver-starter");
         webAppContext.setParentLoaderPriority(true);
